@@ -92,4 +92,7 @@
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;    
     }
+    .header__list{
+        gap: 10px;
+    }
 }
